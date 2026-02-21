@@ -33,5 +33,7 @@ int main(){
 	idx++;
 	}while(lagi=="y"||lagi=="y");
 	cout<<c;
+	cout<<"elnigma";
 	return 0;
 }
+
